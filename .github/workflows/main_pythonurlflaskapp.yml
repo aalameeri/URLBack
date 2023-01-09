@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'PythonURLFlaskapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C923E27A7EC04FA2A4432466AE986EFB }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_460BF8D3132C494E8978D1D221415CCA }}
